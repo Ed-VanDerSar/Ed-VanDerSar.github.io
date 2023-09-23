@@ -17,11 +17,11 @@ minimal: false           # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 - {file: "/edwin_CV.pdf", title: "CV"}
- - {file: "proyects.md", title: "Proyects"}
-  - {file: "teaching.md", title: "Teaching"}
-  - {file: "blog.md", title: "Blog"}
-  - {file: "index.html", title: "Home"}
-  - {file: "README.md", title: "About me"}
+- {file: "proyects.md", title: "Proyects"}
+- {file: "teaching.md", title: "Teaching"}
+- {file: "blog.md", title: "Blog"}
+- {file: "index.html", title: "Home"}
+- {file: "README.md", title: "About me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:eda.math10@gmail.com"}
