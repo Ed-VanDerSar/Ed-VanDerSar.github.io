@@ -11,4 +11,4 @@ Una consecuencia importante de mi gusto por estudiar y entender matemáticas es 
 
 A pesar de que mi formación es académica y enfocada a la educación superior, estoy altamente interesado en sumergirme en proyectos y puestos no académicos, donde pueda aplicar mis conocimientos matemáticos y de programación.
 
-![title](/assets/pictures/edwin1.jpg)
+![title](/assets/pictures/edwin1.jpeg)
