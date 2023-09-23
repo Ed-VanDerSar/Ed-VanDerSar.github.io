@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 <div style="text-align:center;">
-<img src="/assets/pictures/mapache1.jpeg" alt="Texto alternativo" height="200">
+<img src="/assets/pictures/mapache1.jpeg" alt="Texto alternativo" height="300">
 </div>
 
 
