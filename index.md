@@ -11,4 +11,4 @@ Despite my academic background and focus on higher education, I am highly intere
 
 ![title](/assets/pictures/edwin1.jpeg){width=300px}
 
-<img src="/assets/pictures/edwin1.jpeg" alt="Texto alternativo" width="300" height="200">
+<img src="/assets/pictures/edwin1.jpeg" alt="Texto alternativo" width="200" height="300">
