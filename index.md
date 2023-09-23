@@ -10,3 +10,5 @@ Me considero una persona leída, sin embargo siempre busco explorar nuevas cosas
 Una consecuencia importante de mi gusto por estudiar y entender matemáticas es que puedo comunicar ideas complejas. Esto, aunado a mi experiencia en educación universitaria, me permiten desenvolverme en un puesto docente. 
 
 A pesar de que mi formación es académica y enfocada a la educación superior, estoy altamente interesado en sumergirme en proyectos y puestos no académicos, donde pueda aplicar mis conocimientos matemáticos y de programación.
+
+![title](/assets/pictures/edwin1.jpg)
