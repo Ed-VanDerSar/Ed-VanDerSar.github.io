@@ -4,9 +4,8 @@ title: "Blog"
 ---
 
 <div style="text-align:center;">
-<img src="/assets/pictures/mapache1.jpeg" alt="Texto alternativo" height="300">
+  <img src="/assets/pictures/mapache1.jpeg" alt="mapache">
 </div>
-
 
 {% if site.show_excerpts %}
   {% include home.html %}
