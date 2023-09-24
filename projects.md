@@ -6,7 +6,7 @@ layout: page
 
 
 
-# FEM (Finite Element Methond)
+# FEM (Finite Element Method)
 1. 1D Problems
 2. 2D Problems
 
