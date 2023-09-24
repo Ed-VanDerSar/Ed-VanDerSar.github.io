@@ -3,7 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
-En este pequeño sitio recojo todo el material e información sobre los cursos en lo que he participado como profesor, las actividades didácticas y en general todo lo relacionado con el quehacer docente.
+En este pequeño espacio recojo todo parte del material e información sobre los cursos en lo que he participado como profesor, las actividades didácticas y en general todo lo relacionado con el quehacer docente. 
 
 ## Manifiesto de Enseñanza 
 
@@ -22,5 +22,8 @@ de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el pr
 
 
 ## Algo del material que he diseñado para clases 
+
+- [Heres a link to my CV](/edwin_CV.pdf)
+
 
 
