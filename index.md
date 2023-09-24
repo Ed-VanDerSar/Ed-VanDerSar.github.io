@@ -17,4 +17,4 @@ Despite my academic background and focus on higher education, I am highly intere
 </div>
 
 
-This site is based on [repository](https://github.com/niklasbuschmann/contrast)
+
