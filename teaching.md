@@ -3,11 +3,11 @@ layout: page
 title: "Teaching"
 ---
 
-En este pequeño espacio recojo todo parte del material e información sobre los cursos en lo que he participado como profesor, las actividades didácticas y en general todo lo relacionado con el quehacer docente. 
+En este pequeño espacio recojo parte del material e información sobre los cursos en lo que he participado como profesor, las actividades didácticas y en general todo lo relacionado con el quehacer docente. 
 
 ## Manifiesto de Enseñanza 
 
-Proximanete.
+Próximamente.
 
 ## Experiencia de enseñanza 
 
@@ -22,8 +22,20 @@ de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el pr
 
 
 ## Algo del material que he diseñado para clases 
+Aquí presento una pequeña seleccion del material que he elaborado para mis clases.
+- [Diapositivas para recordarles a alumnos de Ecuaciones Diferenciales Parciales la intución sobre la noción de integral en una superficie](assets/Teaching material/Para mostrar /Integrales .pdf)
+- [Guía de nociones de Cálculo diferencial e integral para alumnos de Ecuaciones Diferenciales Parciales](assets/Teaching material/Para mostrar /calc_to_pdes.pdf)
+- [Material para una clase de Ecuaciones Diferenciales Parciales de posgrado: Problemas de curvas características](assets/Teaching material/Para mostrar /PDEproblems1.pdf)
 
-- [Heres a link to my CV](/edwin_CV.pdf)
+
+
+
+
+
+
+
+
+
 
 
 
