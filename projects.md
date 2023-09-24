@@ -11,4 +11,4 @@ layout: page
 2. 2D Problems
 
 # Data Analysis 
-Comimg soon 
+Coming soon 
