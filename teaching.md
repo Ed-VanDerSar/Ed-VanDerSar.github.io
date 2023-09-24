@@ -3,8 +3,24 @@ layout: page
 title: "Teaching"
 ---
 
-# Manifiesto de Enseñanza 
+En este pequeño sitio recojo todo el material e información sobre los cursos en lo que he participado como profesor, las actividades didácticas y en general todo lo relacionado con el quehacer docente.
 
-# Experiencia de enseñanza 
+## Manifiesto de Enseñanza 
 
-# Algo del material que he diseñado para clases 
+Proximanete.
+
+## Experiencia de enseñanza 
+
+### Asistente de profesor 
+Universidad Nacional Autónoma de MéxicoUniversidad Nacional Autónoma de México (2020 - 2023)
+Encargado de preparación de clases, elaboración de material didáctico y evaluación 
+de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el programa de posgrado en ciencias matemáticas:
+- Álgebra Moderna
+- Teoría de Galois
+- Ecuaciones Diferenciales Parciales (en licenciatura y en el Posgrado en Ciencias Matemáticas)
+- Temas avanzados en PDE’s (Ecuaciones Elípticas)
+
+
+## Algo del material que he diseñado para clases 
+
+
