@@ -12,7 +12,7 @@ Próximamente.
 ## Experiencia de enseñanza 
 
 ### Asistente de profesor 
-Universidad Nacional Autónoma de MéxicoUniversidad Nacional Autónoma de México (2020 - 2023)
+#### Universidad Nacional Autónoma de MéxicoUniversidad Nacional Autónoma de México (2020 - 2023)
 Encargado de preparación de clases, elaboración de material didáctico y evaluación 
 de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el programa de posgrado en ciencias matemáticas:
 - Álgebra Moderna
