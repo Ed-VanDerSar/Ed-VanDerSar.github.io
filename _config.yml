@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 - {file: "projects.md", title: "Proyects"}
 - {file: "teaching.md", title: "Teaching"}
 - {file: "blog.md", title: "Blog"}
-- {file: "README.md", title: "About me"}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:eda.math10@gmail.com"}
