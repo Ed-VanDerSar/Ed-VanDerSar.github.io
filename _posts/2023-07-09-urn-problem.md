@@ -8,13 +8,13 @@ layout: post
 
 The Urn Problem was originally stated by the mathematician _John Littlewood_, as a mere puzzle in his 1953 book _Littlewood’s Miscellany_[^1] in the following way:  
 > _Balls numbered 1, 2, …  (or for a mathematician the numbers themselves) are put into a box as follows. At 1 minute to noon the numbers 1 to 10 are put in, and the number 1 is taken out. At half a minute to noon numbers 11 to 20 are put in and the number 2 is taken out. At one quarter minute before noon 21 to 30 in and 3 out; and so on. How many are in the box at noon? The answer is none: any selected number, e.g. 100, is absent, having been taken out at the 100th operation._
+
 It was also later extensively analyzed  by Sheldon Ross in his 1988 book _A First Course in Probability_[^2], who described the probabilistic nature of this problem. The aim of this expository paper is to discus the _Urn Problem_ as posed in Ross’s book.
 
 Let us consider the following simplified version of the problem:
 
-{ \small\textit{
-We start with an infinite number of balls, numbered. Then, in sequential steps we perform the following experiment: At each step, ten balls are placed in an urn and then one is removed and discarded. The steps are performed so that they are completed in a finite time. The question is, How many balls are in the urn after the end of the process?}
- }
+
+> _We start with an infinite number of balls, numbered. Then, in sequential steps we perform the following experiment: At each step, ten balls are placed in an urn and then one is removed and discarded. The steps are performed so that they are completed in a finite time. The question is, How many balls are in the urn after the end of the process?_
 
 
 One can immediately say that the answer is that there is an infinite number of balls in the urn by the end of the process. This is in accordance with most people’s intuition, based on the fact that at each step more balls are added than are being removed. We shall see that the answer of the question depends on the way the ball is removed at each step. This might seem _chaotic_. Nevertheless, we will prove that if we study all the possible ways of remove balls at each step with tools provided by probability theory, then we gain a deeper understanding of the nature of this problem.
