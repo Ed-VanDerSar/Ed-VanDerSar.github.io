@@ -23,7 +23,7 @@ One can immediately say that the answer is that there is an infinite number of b
 Suppose that we possess an infinitely large urn and an infinite collection of balls labelled with the natural numbers, i.e., each number corresponds to exactly one ball.
 Consider an experiment performed as follows: In the first step, the balls  1 through 10 are placed in the urn and the ball number 10 is removed. In the second step, the balls 11 through 20 are placed in the urn and the ball number 20 is removed. In the third step, the balls 21 through 30 are placed in the urn and the ball number 30 is removed. And so on, and so on. If we assume that we can perform infinitely many steps and that the process ends in a finite time, then the question is, How many balls are in the urn at the end of the process? 
 
-The answer to this question is, according to our intuition, that there is an infinite number of balls at the end of the process, since any ball whose number is not of the form $10n$, for $ n\geq 1 $, will be placed in the urn and will remain in it until the  end of the process. So, the question is solved if the experiment is performed as described.
+The answer to this question is, according to our intuition, that there is an infinite number of balls at the end of the process, since any ball whose number is not of the form $$ 10n $$, for $$ n\geq 1 $$, will be placed in the urn and will remain in it until the  end of the process. So, the question is solved if the experiment is performed as described.
 
 Now, let us change the experiment  and suppose that in the first step, the balls  1 through 10 are placed in the urn and the ball number 1 is removed. In the second step, the balls  11 through 20 are placed in the urn and the ball number 2 is removed. In the third step, the balls 21 through 30 are placed in the urn and the ball number 3 is removed. In the fourth step, the balls 31 through 40 are placed in the urn and the ball number 4 is removed. And so on, and so on. Again, if we assume that we can perform infinitely many steps and that the process ends in a finite time, then we wonder, How many balls are in the urn at the end of the process?  
 
@@ -81,9 +81,8 @@ Now, in view of the well-known fact that $ \displaystyle \sum_{k\geq 1}\frac{1}{
 
 
 
+[^1]: John E. Littlewood. Littlewood's Miscellany. Cambridge University Press, Cambridge, 1986. p. 26. (First published as "A Mathematician's Miscellany" (ed. Béla Bollobás, Methuen \& Co., 1953)
 
+[^2]: Ross, S. M. (1998). A First Course in Probability. Pearson Prentice Hall, 2010
 
- [^1]: Ross, S. M. (1998). A First Course in Probability. Pearson Prentice Hall, 2010
-
- [^2]: John E. Littlewood. Littlewood's Miscellany. Cambridge University Press, Cambridge, 1986. p. 26. (First published as "A Mathematician's Miscellany" (ed. Béla Bollobás, Methuen \& Co., 1953)
-
+ 
