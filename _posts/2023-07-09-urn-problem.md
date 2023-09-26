@@ -65,7 +65,7 @@ Finally, inasmuch as the event that the urn is not empty at the end of the proce
 
 $$  \mathbb{P}(\bigcap_{i\geq n}E_i)\leq \sum_{i\geq 1} \mathbb{P}(E_i)=0. $$
 
-Hence, the urn is empty at the end of the process with probability 1 $$\square $$. 
+Hence, the urn is empty at the end of the process with probability 1.                               $$\square $$ 
 
 
 The identity 
@@ -77,7 +77,7 @@ holds due to, for some $$ M\geq m $$ we have
 $$   \prod_{k\geq m}\left(1+\frac{1}{9k}\right)\geq \prod_{k= m}^M\left(1+\frac{1}{9k}\right)>\frac{1}{9m}+\frac{1}{9(m+1)}+\dots+\frac{1}{9M}=\frac{1}{9}\sum_{k=m}^M\frac{1}{k}.$$
 
 
-Now, in view of the well-known fact that $$ \sum_{k\geq 1}\frac{1}{k}=\infty $$ and taking the limit as $$ M\to\infty $$, its clear that  holds.
+Now, in view of the well-known fact that $$ \sum_{k\geq 1}\frac{1}{k}=\infty $$ and taking the limit as $$ M\to\infty $$, its clear that the identity holds.
 
 
 
