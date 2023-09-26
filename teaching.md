@@ -26,8 +26,10 @@ de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el pr
 
 
 ## Algo del material que he diseñado para clases 
-### Ecuaciones Diferenciales Parciales y análisis elemental
 Aquí presento una pequeña seleccion del material que he elaborado para mis clases.
+
+### Ecuaciones Diferenciales Parciales y análisis elemental
+
 - [Diapositivas para recordarles a alumnos de Ecuaciones Diferenciales Parciales la intución sobre la noción de integral en una superficie](assets/Teaching material/Para mostrar /Integrales .pdf)
 - [Guía de nociones de Cálculo diferencial e integral para alumnos de Ecuaciones Diferenciales Parciales](assets/Teaching material/Para mostrar /calc_to_pdes.pdf)
 - [Material para una clase de Ecuaciones Diferenciales Parciales de posgrado: Problemas de curvas características](assets/Teaching material/Para mostrar /PDEproblems1.pdf)
