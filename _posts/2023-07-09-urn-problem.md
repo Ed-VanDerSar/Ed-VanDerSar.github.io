@@ -74,7 +74,6 @@ $$ \prod_{k\geq m}\left(1+\frac{1}{9k}\right)=\infty $$
 
 holds due to, for some $$ M\geq m $$ we have
 
-
 $$   \prod_{k\geq m}\left(1+\frac{1}{9k}\right)\geq \prod_{k= m}^M\left(1+\frac{1}{9k}\right)>\frac{1}{9m}+\frac{1}{9(m+1)}+\dots+\frac{1}{9M}=\frac{1}{9}\sum_{k=m}^M\frac{1}{k}.$$
 
 
