@@ -45,7 +45,7 @@ This identity is easier to understand since, if ball number  $$ i $$ is still to
 
 Given that the events $$ F_n $$ are decreasing and $$ E_i=\bigcap_{n\geq1}F_n $$, it follows from the continuity of probability measure, that 
 
-$$ \mathbb{P}(E_i)=\lim_{n\to\infty}\p{F_n}=\prod_{k\geq m}\frac{9k}{9k+1}.$$
+$$ \mathbb{P}(E_i)=\lim_{n\to\infty} \mathbb{P}(F_n)=\prod_{k\geq m}\frac{9k}{9k+1}.$$
 
 Since
 
