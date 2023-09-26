@@ -61,7 +61,7 @@ $$ \prod_{k\geq m}\frac{9k}{9k+1}=0 $$
 
 Finally, inasmuch as the event that the urn is not empty at the end of the process is $$ \bigcap_{i\geq n}E_i $$, it follows that 
 
-$$ \p{\bigcap_{i\geq n}E_i}\leq \sum_{i\geq 1}\p{E_i}=0. $$
+$$  \mathbb{P}(\bigcap_{i\geq n}E_i)\leq \sum_{i\geq 1} \mathbb{P}(E_i)=0. $$
 
 Hence, the urn is empty at the end of the process with probability 1. 
 
