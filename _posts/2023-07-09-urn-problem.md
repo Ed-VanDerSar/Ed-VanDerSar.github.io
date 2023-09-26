@@ -34,50 +34,47 @@ Surprisingly, the answer is that the urn is empty at the end of the process! Sin
 If we study this problem under probabilistic eyes, we can get a glimpse of the very nature of the urn problem. Let us now suppose that whenever a ball is to be removed, that ball is randomly selected from among those present. That is, suppose that in the firs step, balls numbered 1 through 10 are placed in the urn and a ball is randomly selected and removed, and so on. In this case, how many balls are in the urn at the end of the process?
 
 We shall prove that, whit probability 1, the urn is empty at the end of the process. This implies that almost any way of performing the experiment results in an empty urn, which is astonishing, since for some experiments, which may seem natural, the final answer is not zero.
+ 
+Let $$ E_i $$ be the event that the ball number $$ i $$ is still in the urn at the process. Lets assume without loss of generality that $$ 10(m-1) < i\leq 10m $$ for some $$ m\geq1 $$. So, the $i$th ball is in the urn exactly at the $m$th step. Let $$ F_n $$ be event that the $i$th ball remains in the urn after  $$ n $$ successive steps. Thus 
 
-Let $E_i$ be the event that the ball number $i$ is still in the urn at the process. Lets assume without loss of generality that $ 10(m-1) < i\leq 10m $ for some $ m\geq1 $. So, the $i$th ball is in the urn exactly at the $m$th step. Let $ F_n $ be event that the $i$th ball remains in the urn after  $ n $ successive steps. Thus 
-$$
-\p{F_n}= \prod_{k=m}^{m+n}\frac{9k}{9k+1}.
-$$
-For example, if $m=1$, then 
+$$ \mathbb{P}(F_n)= \prod_{k=m}^{m+n}\frac{9k}{9k+1}.$$
+
+For example, if $$ m=1 $$, then 
 $$\p{F_n}= \frac{9\cdot 18\cdot 27\cdot\cdots\cdot 9n}{10\cdot 19\cdot 28\cdot\cdots\cdot (9n+1)}.$$
-This identity is easier to understand since, if ball number  $i$ is still to be in the urn after the first $n$, the first ball removals can be any one of 9 that left, the second any one of 18 (there are 19 balls in the urn at the time of the second removal, one of which must be ball number 1), and so on. 
+This identity is easier to understand since, if ball number  $$ i $$ is still to be in the urn after the first $$ n $$, the first ball removals can be any one of 9 that left, the second any one of 18 (there are 19 balls in the urn at the time of the second removal, one of which must be ball number 1), and so on. 
 
-Given that the events $F_n$ are decreasing and $E_i=\bigcap_{n\geq1}F_n$, it follows from the continuity of probability measure, that 
-$$
-\p{E_i}=\lim_{n\to\infty}\p{F_n}=\prod_{k\geq m}\frac{9k}{9k+1}.
-$$
+Given that the events $$ F_n $$ are decreasing and $$ E_i=\bigcap_{n\geq1}F_n $$, it follows from the continuity of probability measure, that 
+
+$$ \mathbb{P}(E_i)=\lim_{n\to\infty}\p{F_n}=\prod_{k\geq m}\frac{9k}{9k+1}.$$
+
 Since
-$$
-    \prod_{k\geq m}\left(1+\frac{1}{9k}\right)=\infty
-$$
+
+$$ \prod_{k\geq m}\left(1+\frac{1}{9k}\right)=\infty $$
+
 and 
-$$
-\prod_{k\geq m}\frac{9k}{9k+1}=
-\left(\prod_{k\geq m}\left(1+\frac{1}{9k}\right) \right)^{-1},
-$$
+
+$$\prod_{k\geq m}\frac{9k}{9k+1}=\left(\prod_{k\geq m}\left(1+\frac{1}{9k}\right) \right)^{-1},$$
+
 we know that 
-$$
-\prod_{k\geq m}\frac{9k}{9k+1}=0
-$$
-Finally, inasmuch as the event that the urn is not empty at the end of the process is $ \bigcap_{i\geq n}E_i $, it follows that 
-$$
-\p{\bigcap_{i\geq n}E_i}\leq \sum_{i\geq 1}\p{E_i}=0.
-$$
+
+$$ \prod_{k\geq m}\frac{9k}{9k+1}=0 $$
+
+Finally, inasmuch as the event that the urn is not empty at the end of the process is $$ \bigcap_{i\geq n}E_i $$, it follows that 
+
+$$ \p{\bigcap_{i\geq n}E_i}\leq \sum_{i\geq 1}\p{E_i}=0. $$
+
 Hence, the urn is empty at the end of the process with probability 1. 
 
+
 The identity 
-$$
-\prod_{k\geq m}\frac{9k}{9k+1}=
-\left(\prod_{k\geq m}\left(1+\frac{1}{9k}\right) \right)^{-1},
-$$
-holds due to, for some $ M\geq m $ 
-$$
-    \prod_{k\geq m}\left(1+\frac{1}{9k}\right)&\geq \prod_{k= m}^M\left(1+\frac{1}{9k}\right)\\
-&>\frac{1}{9m}+\frac{1}{9(m+1)}+\dots+\frac{1}{9M}\\
-&=\frac{1}{9}\sum_{k=m}^M\frac{1}{k}.
-$$
-Now, in view of the well-known fact that $ \displaystyle \sum_{k\geq 1}\frac{1}{k}=\infty $ and taking the limit as $ M\to\infty $, its clear that  holds.
+
+$$\prod_{k\geq m}\frac{9k}{9k+1}= \left(\prod_{k\geq m}\left(1+\frac{1}{9k}\right) \right)^{-1},$$
+
+holds due to, for some $$ M\geq m $$ 
+$$   \prod_{k\geq m}\left(1+\frac{1}{9k}\right)&\geq \prod_{k= m}^M\left(1+\frac{1}{9k}\right)\\ &>\frac{1}{9m}+\frac{1}{9(m+1)}+\dots+\frac{1}{9M}\\ &=\frac{1}{9}\sum_{k=m}^M\frac{1}{k}.$$
+
+
+Now, in view of the well-known fact that $$ \sum_{k\geq 1}\frac{1}{k}=\infty $$ and taking the limit as $$ M\to\infty $$, its clear that  holds.
 
 
 
