@@ -27,7 +27,7 @@ The answer to this question is, according to our intuition, that there is an inf
 
 Now, let us change the experiment  and suppose that in the first step, the balls  1 through 10 are placed in the urn and the ball number 1 is removed. In the second step, the balls  11 through 20 are placed in the urn and the ball number 2 is removed. In the third step, the balls 21 through 30 are placed in the urn and the ball number 3 is removed. In the fourth step, the balls 31 through 40 are placed in the urn and the ball number 4 is removed. And so on, and so on. Again, if we assume that we can perform infinitely many steps and that the process ends in a finite time, then we wonder, How many balls are in the urn at the end of the process?  
 
-Surprisingly, the answer is that the urn is empty at the end of the process! Since any ball is removed of the urn in some step: the ball number 1 is removed en the first step, the ball number 2 is removed in the second step, the ball number 3 is removed in the third step and so on, and  son. So that, the ball number  $n$ will be removed exactly in the $n$th step.  Thus, the fact that any ball is labeled with exactly one natural number implies that the urn shall be empty by the end of the process.
+Surprisingly, the answer is that the urn is empty at the end of the process! Since any ball is removed of the urn in some step: the ball number 1 is removed en the first step, the ball number 2 is removed in the second step, the ball number 3 is removed in the third step and so on, and  son. So that, the ball number  $$ n $$ will be removed exactly in the $$ n $$th step.  Thus, the fact that any ball is labeled with exactly one natural number implies that the urn shall be empty by the end of the process.
 
  It seems apparent that the answer to the question, How many balls are in the urn at the end of the process?, depends strongly on the way the balls are removed, even though the ways of removing the balls seem _natural_ or _reasonable_.
 
@@ -35,7 +35,7 @@ If we study this problem under probabilistic eyes, we can get a glimpse of the v
 
 We shall prove that, whit probability 1, the urn is empty at the end of the process. This implies that almost any way of performing the experiment results in an empty urn, which is astonishing, since for some experiments, which may seem natural, the final answer is not zero.
  
-Let $$ E_i $$ be the event that the ball number $$ i $$ is still in the urn at the process. Lets assume without loss of generality that $$ 10(m-1) < i\leq 10m $$ for some $$ m\geq1 $$. So, the $i$th ball is in the urn exactly at the $m$th step. Let $$ F_n $$ be event that the $i$th ball remains in the urn after  $$ n $$ successive steps. Thus 
+Let $$ E_i $$ be the event that the ball number $$ i $$ is still in the urn at the process. Lets assume without loss of generality that $$ 10(m-1) < i\leq 10m $$ for some $$ m\geq1 $$. So, the $$ i $$th ball is in the urn exactly at the $$ m$ $th step. Let $$ F_n $$ be event that the $i$th ball remains in the urn after  $$ n $$ successive steps. Thus 
 
 $$ \mathbb{P}(F_n)= \prod_{k=m}^{m+n}\frac{9k}{9k+1}.$$
 
@@ -65,7 +65,7 @@ Finally, inasmuch as the event that the urn is not empty at the end of the proce
 
 $$  \mathbb{P}(\bigcap_{i\geq n}E_i)\leq \sum_{i\geq 1} \mathbb{P}(E_i)=0. $$
 
-Hence, the urn is empty at the end of the process with probability 1.                               $$\square $$ 
+Hence, the urn is empty at the end of the process with probability 1.                        $$\square $$ 
 
 
 The identity 
