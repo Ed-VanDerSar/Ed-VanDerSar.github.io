@@ -12,6 +12,7 @@ A consequence of my passion for studying and understanding abtsract mathematics 
 
 Despite my academic background and focus on higher education, I am highly interested in immersing myself in non-academic projects where I can apply my mathematical and programming knowledge.
 
+I am currently open to participating in a PhD project for 2024.
 
 <div style="text-align:center;">
 <img src="/assets/pictures/edwin1.jpeg" alt="Texto alternativo" width="200" height="300">
