@@ -7,7 +7,7 @@ title: CV
 
 - (2021-2023) Graduate studies in Mathematics, Universidad Nacional Autónoma de México (UNAM)
   - All courses completed, 95/100 average score, graduation pending.
-  - General examinations: Real and comples analysis, differential geoemtry and PDE's
+  - General examinations: Real and complex analysis, differential geometry and PDE's
   - Final project: [Formulación variacional para un sistema subcrítico de ecuaciones elípticas débilmente acopladas en un dominio exterior](/assets/Publications/Tesina_Edwin.pdf)
 - (2016-2020) Undergraduate studies in Mathematics, Universidad Nacional Autónoma de México (UNAM) 
   - Graduated, 99/100 average score
