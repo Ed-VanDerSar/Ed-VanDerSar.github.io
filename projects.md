@@ -2,7 +2,7 @@
 title: "Projects"
 layout: page
 ---
- I am hosting here some of my programing projects.
+ I am hosting here some of my programming projects.
 
 
 
@@ -14,4 +14,5 @@ Se usa el método del elemento finito de Lagarange y Crouzeix–Raviart (de prim
 2. [2D Problems](https://github.com/Ed-VanDerSar/Proyectos-de-FEM/tree/main/2D)
 
 # Data Analysis 
-Coming soon 
+
+1. [Analysis and exploration of the ENSO datasets:](https://github.com/Ed-VanDerSar/Data--Science-Project-ENSO--Analysis) Time series forecasting using machine learning tools, namely the xgboost open-source library. __Warning__: This is my very first project thus; the reader might find it somewhat naive.
