@@ -3,7 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
-En este pequeño espacio recojo parte del material e información sobre los cursos en lo que he participado como profesor, las actividades didácticas y en general todo lo relacionado con el quehacer docente. 
+En este pequeño espacio recojo parte del material e información sobre los cursos en los que he participado como profesor, las actividades didácticas y en general todo lo relacionado con el quehacer docente. 
 
 <div style="text-align:center;">
   <img src="/assets/pictures/math1.jpeg" alt="math1">
