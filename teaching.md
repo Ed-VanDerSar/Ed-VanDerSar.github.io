@@ -14,8 +14,11 @@ En este pequeño espacio recojo parte del material e información sobre los curs
 Sostengo los Axiomas que Federico Ardila postula en su comunicado para la AMS  [Todos Cuentan](https://www.ams.org/journals/notices/201610/rnoti-p1164.pdf)[^1]:
 
 > __Axioma 1.__ El talento matemático se distribuye de manera equitativa entre diferentes grupos, independientemente de las fronteras geográficas, demográficas y económicas.
+> 
 > __Axioma 2.__ Todos pueden tener experiencias matemáticas alegres, significativas y empoderadoras.
+> 
 > __Axioma 3.__ Las matemáticas son una herramienta poderosa y maleable que puede ser moldeada y utilizada de manera diferente por diversas comunidades para satisfacer sus necesidades.
+> 
 > __Axioma 4.__ Cada estudiante merece ser tratado con dignidad y respeto.
 
 
