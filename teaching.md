@@ -26,12 +26,11 @@ Sostengo los Axiomas que Federico Ardila postula en su comunicado para la AMS  [
 
 ## Experiencia de enseñanza 
 
-### Profesor de Asignatura
-#### Universidad Nacional Autónoma de MéxicoUniversidad Nacional Autónoma de México (2024 - )
+### Profesor de Asignatura en Universidad Nacional Autónoma de México (2024 - )
 - Probabilidad II 
 
-### Asistente de profesor 
-#### Universidad Nacional Autónoma de MéxicoUniversidad Nacional Autónoma de México (2020 - 2023)
+### Asistente de profesor en Universidad Nacional Autónoma de México (2020 - 2023)
+
 Encargado de preparación de clases, elaboración de material didáctico y evaluación 
 de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el programa de posgrado en ciencias matemáticas:
 - Álgebra Moderna
