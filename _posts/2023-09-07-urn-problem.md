@@ -9,7 +9,7 @@ layout: post
 The Urn Problem was originally stated by the mathematician _John Littlewood_, as a mere puzzle in his 1953 book _Littlewood’s Miscellany_[^1] in the following way:  
 > _Balls numbered 1, 2, …  (or for a mathematician the numbers themselves) are put into a box as follows. At 1 minute to noon the numbers 1 to 10 are put in, and the number 1 is taken out. At half a minute to noon numbers 11 to 20 are put in and the number 2 is taken out. At one quarter minute before noon 21 to 30 in and 3 out; and so on. How many are in the box at noon? The answer is none: any selected number, e.g. 100, is absent, having been taken out at the 100th operation._
 
-It was also later extensively analyzed  by Sheldon Ross in his 1988 book _A First Course in Probability_[^2], who described the probabilistic nature of this problem. The aim of this expository paper is to discus the _Urn Problem_ as posed in Ross’s book.
+It was also later extensively analyzed  by Sheldon Ross in his 1988 book _A First Course in Probability_[^2], who described the probabilistic nature of this problem. This expository paper aims to discus the _Urn Problem_ as posed in Ross’s book.
 
 Let us consider the following simplified version of the problem:
 
@@ -17,7 +17,7 @@ Let us consider the following simplified version of the problem:
 > _We start with an infinite number of balls, numbered. Then, in sequential steps we perform the following experiment: At each step, ten balls are placed in an urn and then one is removed and discarded. The steps are performed so that they are completed in a finite time. The question is, How many balls are in the urn after the end of the process?_
 
 
-One can immediately say that the answer is that there is an infinite number of balls in the urn by the end of the process. This is in accordance with most people’s intuition, based on the fact that at each step more balls are added than are being removed. We shall see that the answer of the question depends on the way the ball is removed at each step. This might seem _chaotic_. Nevertheless, we will prove that if we study all the possible ways of remove balls at each step with tools provided by probability theory, then we gain a deeper understanding of the nature of this problem.
+One can immediately say that the answer is that there is an infinite number of balls in the urn by the end of the process. This is following most people’s intuition, based on the fact that at each step more balls are added than are being removed. We shall see that the answer to the question depends on the way the ball is removed at each step. This might seem _chaotic_. Nevertheless, we will prove that if we study all the possible ways of removing balls at each step with tools provided by probability theory, then we gain a deeper understanding of the nature of this problem.
 
 
 Suppose that we possess an infinitely large urn and an infinite collection of balls labelled with the natural numbers, i.e., each number corresponds to exactly one ball.
@@ -33,15 +33,15 @@ Surprisingly, the answer is that the urn is empty at the end of the process! Sin
 
 If we study this problem under probabilistic eyes, we can get a glimpse of the very nature of the urn problem. Let us now suppose that whenever a ball is to be removed, that ball is randomly selected from among those present. That is, suppose that in the firs step, balls numbered 1 through 10 are placed in the urn and a ball is randomly selected and removed, and so on. In this case, how many balls are in the urn at the end of the process?
 
-We shall prove that, whit probability 1, the urn is empty at the end of the process. This implies that almost any way of performing the experiment results in an empty urn, which is astonishing, since for some experiments, which may seem natural, the final answer is not zero.
+We shall prove that, whit probability 1, the urn is empty at the end of the process. This implies that almost any way of experimenting results in an empty urn, which is astonishing, since for some experiments, which may seem natural, the final answer is not zero.
  
-Let $$ E_i $$ be the event that the ball number $$ i $$ is still in the urn at the process. Lets assume without loss of generality that $$ 10(m-1) < i\leq 10m $$ for some $$ m\geq1 $$. So, the $$ i $$th ball is in the urn exactly at the $$ m$ $th step. Let $$ F_n $$ be event that the $i$th ball remains in the urn after  $$ n $$ successive steps. Thus 
+Let $$ E_i $$ be the event that the ball number $$ i $$ is still in the urn in the process. Lets assume without loss of generality that $$ 10(m-1) < i\leq 10m $$ for some $$ m\geq1 $$. So, the $$ i $$th ball is in the urn exactly at the $$ m $$th step. Let $$ F_n $$ be event that the $$ I $$th ball remains in the urn after  $$ n $$ successive steps. Thus 
 
 $$ \mathbb{P}(F_n)= \prod_{k=m}^{m+n}\frac{9k}{9k+1}.$$
 
 For example, if $$ m=1 $$, then 
 
-$$ \mathbb{P}(F_n)= \frac{9\cdot 18\cdot 27\cdot\cdots\cdot 9n}{10\cdot 19\cot 28\cdot\cdots\cdot (9n+1)}. $$
+$$ \mathbb{P}(F_n)= \frac{9\cdot 18\cdot 27\cdot\cdots\cdot 9n}{10\cdot 19\cdot 28\cdot\cdots\cdot (9n+1)}. $$
 
 This identity is easier to understand since, if ball number  $$ i $$ is still to be in the urn after the first $$ n $$, the first ball removals can be any one of 9 that left, the second any one of 18 (there are 19 balls in the urn at the time of the second removal, one of which must be ball number 1), and so on. 
 
