@@ -11,6 +11,7 @@ title: CV
   - Final project: [Formulación variacional para un sistema subcrítico de ecuaciones elípticas débilmente acopladas en un dominio exterior](/assets/Publications/Tesina_Edwin.pdf)
 - (2016-2020) Undergraduate studies in Mathematics, Universidad Nacional Autónoma de México (UNAM) 
   - Graduated with honors, 99/100 average score
+  - Undergraduate dissertation: [Soluciones nodales no triviales para una ecuación elíptica no lineal](/assets/Publications/Tesina_Edwin.pdf)
 
 ## Work Experience 
 - (2020-2023) Teaching Assistant, Universidad Nacional Autónoma de México (UNAM) 
