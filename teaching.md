@@ -27,7 +27,7 @@ Sostengo los Axiomas que Federico Ardila postula en su comunicado para la AMS  [
 ## Experiencia de enseñanza 
 
 ### Profesor de Asignatura en Universidad Nacional Autónoma de México (2024 - )
-- Probabilidad II 
+- (2024-II) Probabilidad II y Probabilidad II
 
 ### Asistente de profesor en Universidad Nacional Autónoma de México (2020 - 2023)
 
