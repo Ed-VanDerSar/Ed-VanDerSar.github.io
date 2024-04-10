@@ -15,7 +15,8 @@ mathjax: true
   - Undergraduate dissertation: [Soluciones nodales no triviales para una ecuación elíptica no lineal en $$\mathbb{R}^N$$](/assets/Publications/Tesis_Edwin.pdf)
 
 ## Work Experience 
+- (2024- ) Part-time Lecturer,  Universidad Nacional Autónoma de México (UNAM) 
 - (2020-2023) Teaching Assistant, Universidad Nacional Autónoma de México (UNAM) 
 
-[Heres a link to my complete CV](/edwin_CV.pdf)
+[Heres a link to my complete CV (in Spanish)](/edwin_CV.pdf)
 
