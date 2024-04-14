@@ -3,6 +3,9 @@ layout: page
 title: CV
 mathjax: true
 ---
+<div style="text-align:center;">
+  <img src="/assets/pictures/mapache2.jpeg" alt="mapache2">
+</div>
 
 ## Education 
 
