@@ -11,7 +11,6 @@ I consider myself a well-read person, but I am always looking for something new 
 
 A consequence of my passion for studying and understanding abstract mathematics is that I can  easily communicate complex ideas. This, combined with my experience in college education, enables me to excel in a teaching role. Despite my academic background and focus on higher education, I am highly interested in immersing myself in non-academic projects where I can apply my mathematical and programming knowledge.
 
-I am currently open to participating in a PhD project for 2024.
 
 <div style="text-align:center;">
 <img src="/assets/pictures/edwin1.jpeg" alt="Texto alternativo" width="200" height="300">
