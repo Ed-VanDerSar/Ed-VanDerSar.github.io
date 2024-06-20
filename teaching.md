@@ -45,7 +45,7 @@ Aquí presento una pequeña seleccion del material que he elaborado para mis cla
 ### Probabilidad 
 
 - [Clase muestra 2024-2: Esperanza ](assets/Teaching material/Para mostrar /clase_muestra_proba.pdf)
-- [Distribución de estadísticos de orden]{assets/Teaching material/Para mostrar /dist_order_statist.pdf}
+- [Distribución de estadísticos de orden](assets/Teaching material/Para mostrar /dist_order_statist.pdf)
 
 ### Ecuaciones Diferenciales Parciales 
 
