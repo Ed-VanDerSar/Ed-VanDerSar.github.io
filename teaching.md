@@ -3,7 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
-En este pequeño espacio recojo parte del material e información sobre los cursos en los que he participado como profesor, las actividades didácticas y en general todo lo relacionado con el quehacer docente. 
+<table><tr><td>En este pequeño espacio recojo parte del material e información sobre los cursos en los que he participado como profesor, las actividades didácticas y en general todo lo relacionado con el quehacer docente. </td></tr></table>
 
 <div style="text-align:center;">
   <img src="/assets/pictures/math1.jpeg" alt="math1">
@@ -29,7 +29,7 @@ Sostengo los Axiomas que Federico Ardila postula en su comunicado para la AMS  [
 ---
 ## Experiencia de enseñanza 
 
-### [Profesor de Asignatura](https://archive.fciencias.unam.mx/directorio/89930) en Universidad Nacional Autónoma de México (2024 - )
+### Profesor de Asignatura en Universidad Nacional Autónoma de México (2024 - )
 - (2025-I) Probabilidad II
 - (2024-II) Probabilidad I y Probabilidad II
 
@@ -41,6 +41,8 @@ de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el pr
 - Teoría de Galois
 - Ecuaciones Diferenciales Parciales (en licenciatura y en el Posgrado en Ciencias Matemáticas)
 - Temas avanzados en PDE’s (Ecuaciones Elípticas)
+
+ [---> Puedes revisar detalles de los cursos aquí <---](https://archive.fciencias.unam.mx/directorio/89930)
 
 ---
 
