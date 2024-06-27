@@ -8,7 +8,7 @@ En este pequeño espacio recojo parte del material e información sobre los curs
 <div style="text-align:center;">
   <img src="/assets/pictures/math1.jpeg" alt="math1">
 </div>
-
+--
 ## Manifiesto de Enseñanza 
 
 Sostengo los Axiomas que Federico Ardila postula en su comunicado para la AMS  [Todos Cuentan](https://www.ams.org/journals/notices/201610/rnoti-p1164.pdf)[^1]:
@@ -20,14 +20,15 @@ Sostengo los Axiomas que Federico Ardila postula en su comunicado para la AMS  [
 > __Axioma 3.__ Las matemáticas son una herramienta poderosa y maleable que puede ser moldeada y utilizada de manera diferente por diversas comunidades para satisfacer sus necesidades.
 > 
 > __Axioma 4.__ Cada estudiante merece ser tratado con dignidad y respeto.
-
+--
 
 [^1]: Ardila-Mantilla, Federico. (2016). Doceamus: Todos Cuentan: Cultivating Diversity in Combinatorics. Notices of the American Mathematical Society. 63. 1164-1170. 10.1090/noti1434. 
 
 ## Experiencia de enseñanza 
 
-### Profesor de Asignatura en Universidad Nacional Autónoma de México (2024 - )
-- (2024-II) Probabilidad II y Probabilidad II
+### [Profesor de Asignatura](https://archive.fciencias.unam.mx/directorio/89930) en Universidad Nacional Autónoma de México (2024 - )
+- (2025-I) Probabilidad II
+- (2024-II) Probabilidad I y Probabilidad II
 
 ### Asistente de profesor en Universidad Nacional Autónoma de México (2020 - 2023)
 
