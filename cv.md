@@ -21,5 +21,5 @@ mathjax: true
 - (2024- ) Part-time Lecturer,  Universidad Nacional Autónoma de México (UNAM) 
 - (2020-2023) Teaching Assistant, Universidad Nacional Autónoma de México (UNAM) 
 
-[Heres a link to my complete CV (in Spanish)](/edwin_CV.pdf)
+[Here is a link to my complete CV](/edwin_CV.pdf)
 
