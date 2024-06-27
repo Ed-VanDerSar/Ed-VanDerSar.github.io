@@ -9,8 +9,7 @@ En este pequeño espacio recojo parte del material e información sobre los curs
   <img src="/assets/pictures/math1.jpeg" alt="math1">
 </div>
 
---
-
+---
 
 ## Manifiesto de Enseñanza 
 
@@ -25,10 +24,9 @@ Sostengo los Axiomas que Federico Ardila postula en su comunicado para la AMS  [
 > __Axioma 4.__ Cada estudiante merece ser tratado con dignidad y respeto.
 
 
---
-
 [^1]: Ardila-Mantilla, Federico. (2016). Doceamus: Todos Cuentan: Cultivating Diversity in Combinatorics. Notices of the American Mathematical Society. 63. 1164-1170. 10.1090/noti1434. 
 
+---
 ## Experiencia de enseñanza 
 
 ### [Profesor de Asignatura](https://archive.fciencias.unam.mx/directorio/89930) en Universidad Nacional Autónoma de México (2024 - )
@@ -44,6 +42,7 @@ de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el pr
 - Ecuaciones Diferenciales Parciales (en licenciatura y en el Posgrado en Ciencias Matemáticas)
 - Temas avanzados en PDE’s (Ecuaciones Elípticas)
 
+---
 
 ## Algo del material que he diseñado para clases 
 Aquí presento una pequeña seleccion del material que he elaborado para mis clases.
