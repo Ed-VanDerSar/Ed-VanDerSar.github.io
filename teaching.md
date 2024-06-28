@@ -45,8 +45,10 @@ de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el pr
 - Ecuaciones Diferenciales Parciales (en licenciatura y en el Posgrado en Ciencias Matemáticas)
 - Temas avanzados en PDE’s (Ecuaciones Elípticas)
 
+> [!NOTE]
+> [---> Puedes revisar detalles de los cursos aquí <--- ](https://archive.fciencias.unam.mx/directorio/89930) 
  
-[---> Puedes revisar detalles de los cursos aquí <--- ](https://archive.fciencias.unam.mx/directorio/89930) 
+
 
 
 ---
