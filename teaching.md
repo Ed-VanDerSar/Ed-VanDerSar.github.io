@@ -6,7 +6,7 @@ title: "Teaching"
 <table><tr><td>En este pequeño espacio recojo parte del material e información sobre los cursos en los que he participado como profesor, las actividades didácticas y en general todo lo relacionado con el quehacer docente. </td></tr></table>
 
 <div style="text-align:center;">
-  <img src="/assets/pictures/math1.jpeg" alt="math1">
+  <img src="/assets/pictures/mapache2.jpeg" alt="math1">
 </div>
 
 ---
