@@ -6,8 +6,12 @@ mathjax: true
 <div style="text-align:center;">
   <img src="/assets/pictures/cirm2024.jpeg" alt="cirm2024">
 </div>
+
+
 ---
 ---
+
+
 ## Education 
 
 - (2021-2023) Graduate studies in Mathematics, Universidad Nacional Autónoma de México (UNAM)
@@ -17,8 +21,12 @@ mathjax: true
 - (2016-2020) Undergraduate studies in Mathematics, Universidad Nacional Autónoma de México (UNAM) 
   - Graduated with honors, 99/100 average score
   - Undergraduate dissertation: [Soluciones nodales no triviales para una ecuación elíptica no lineal en $$\mathbb{R}^N$$](/assets/Publications/Tesis_Edwin.pdf)
+ 
+    
  ---
  ---
+
+ 
 ## Work Experience 
 - (2024- ) Part-time Lecturer,  Universidad Nacional Autónoma de México (UNAM) 
 - (2020-2023) Teaching Assistant, Universidad Nacional Autónoma de México (UNAM) 
