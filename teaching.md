@@ -10,6 +10,7 @@ title: "Teaching"
 </div>
 
 ---
+---
 
 ## Manifiesto de Enseñanza 
 
@@ -27,6 +28,8 @@ Sostengo los Axiomas que Federico Ardila postula en su comunicado para la AMS  [
 [^1]: Ardila-Mantilla, Federico. (2016). Doceamus: Todos Cuentan: Cultivating Diversity in Combinatorics. Notices of the American Mathematical Society. 63. 1164-1170. 10.1090/noti1434. 
 
 ---
+---
+
 ## Experiencia de enseñanza 
 
 ### Profesor de Asignatura en Universidad Nacional Autónoma de México (2024 - )
@@ -44,6 +47,7 @@ de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el pr
 
  [---> Puedes revisar detalles de los cursos aquí <---](https://archive.fciencias.unam.mx/directorio/89930)
 
+---
 ---
 
 ## Algo del material que he diseñado para clases 
