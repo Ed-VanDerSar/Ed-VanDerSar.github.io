@@ -10,7 +10,7 @@ I consider myself a well-read person, but I am always looking for something new 
 
 
 <div style="text-align:center;">
-<img src="/assets/pictures/edwin_cirm.jpeg" alt="Texto alternativo" ">
+<img src="/assets/pictures/edwin_cirm.jpeg" alt="Texto alternativo" width="272" height="661" border="10" >
 </div>
 
 
