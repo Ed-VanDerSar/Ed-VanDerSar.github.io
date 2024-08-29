@@ -28,7 +28,8 @@ mathjax: true
 
  
 ## Work Experience 
-- (2024- ) Part-time Lecturer,  Universidad Nacional Autónoma de México (UNAM) 
+- (2024- ) Part-time Lecturer,  Universidad Nacional Autónoma de México (UNAM)
+- (2024- ) Software Developer,  Fuente Tech (Republic of Singapore)
 - (2020-2023) Teaching Assistant, Universidad Nacional Autónoma de México (UNAM) 
 
 [Here is a link to my complete CV](/edwin_CV.pdf)
