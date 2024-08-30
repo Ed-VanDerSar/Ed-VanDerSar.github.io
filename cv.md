@@ -13,8 +13,8 @@ mathjax: true
 
 
 ## Education 
--(2024-) PhD in Applied Mathematics, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS), UNAM 
-  - My research is centred around applying probability theory to solve complex problems in evolution and population genetics. 
+- (2024- ) PhD in Applied Mathematics, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS), UNAM 
+    - My research is centred around applying probability theory to solve complex problems in evolution and population genetics. 
 
 - (2021-2023) Graduate studies in Mathematics, Universidad Nacional Autónoma de México (UNAM)
   - Graduated with honors, 97/100 average score.
