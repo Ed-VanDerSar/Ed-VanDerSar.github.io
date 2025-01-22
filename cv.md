@@ -11,10 +11,18 @@ mathjax: true
 ---
 ---
 
+## Work Experience 
+- (2024- ) Software Developer,  Fuente Tech (Republic of Singapore)
+- (2024-2025 ) Part-time Lecturer,  Universidad Nacional Autónoma de México (UNAM)
+- (2020-2023) Teaching Assistant, Universidad Nacional Autónoma de México (UNAM) 
+
+    
+ ---
+ ---
 
 ## Education 
 - (2024- ) PhD in Applied Mathematics, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS), UNAM 
-    - My research is centred around applying probability theory to solve complex problems in evolution and population genetics. 
+    - My research is centred on applying probability theory to solve complex problems in evolution and population genetics. 
 
 - (2021-2023) Graduate studies in Mathematics, Universidad Nacional Autónoma de México (UNAM)
   - Graduated with honors, 97/100 average score.
@@ -24,15 +32,9 @@ mathjax: true
   - Graduated with honors, 99/100 average score
   - Undergraduate dissertation: [Soluciones nodales no triviales para una ecuación elíptica no lineal en $$\mathbb{R}^N$$](/assets/Publications/Tesis_Edwin.pdf)
  
-    
  ---
  ---
 
  
-## Work Experience 
-- (2024- ) Part-time Lecturer,  Universidad Nacional Autónoma de México (UNAM)
-- (2024- ) Software Developer,  Fuente Tech (Republic of Singapore)
-- (2020-2023) Teaching Assistant, Universidad Nacional Autónoma de México (UNAM) 
-
-[Here is a link to my complete CV (Updated until June 2024)](/edwin_CV.pdf)
+[Here is a link to my complete CV (Updated until January 2025)](/edwin_CV.pdf)
 
