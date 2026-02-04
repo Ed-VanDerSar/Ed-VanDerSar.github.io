@@ -4,9 +4,15 @@ title: ""
 ---
 ## Welcome.
 
-I am __Edwin Anzures__. I am interested in mathematics, programming, and the computational implementation of mathematical models. During my years of education, I had the opportunity to fully engage in the study of highly abstract yet applicable mathematics. For instance, I worked on topics such as Partial Differential Equations, Probability, and Stochastic Processes. 
+I am __Edwin Anzures__. I am interested in mathematics, programming, and the computational implementation of mathematical models. 
 
-I consider myself a well-read person, but I am always looking for something new outside my comfort zone. I hold self-imposed high-quality standards in multiple dimensions of my life.
+Currently, I am pursuing a PhD degree in Applied Mathematics. My research is centered around applying probability theory to solve problems in biology. I am particularly interested in how probability models can help understand biological processes and phenomena, for instance: genetic variation, population dynamics, and the spread of mutations.
+
+### Scientific interests:
+- Coalescent and Branching Processes
+- Phase-type theory
+- PDEs arising form probability theory and stochastic process
+- Mathematical models in population dynamics and ecology
 
 
 <div style="text-align:center;">

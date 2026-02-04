@@ -36,7 +36,7 @@ Sostengo los Axiomas que Federico Ardila postula en su comunicado para la AMS  [
 - (2025-I) Probabilidad II
 - (2024-II) Probabilidad I y Probabilidad II
 
-### Asistente de profesor en Universidad Nacional Autónoma de México (2020 - 2023)
+### Ayudante de profesor en Universidad Nacional Autónoma de México (2020 - 2023)
 
 Encargado de preparación de clases, elaboración de material didáctico y evaluación 
 de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el programa de posgrado en ciencias matemáticas:
@@ -44,10 +44,6 @@ de varias asignaturas de matemáticas avanzadas en nivel licenciatura y en el pr
 - Teoría de Galois
 - Ecuaciones Diferenciales Parciales (en licenciatura y en el Posgrado en Ciencias Matemáticas)
 - Temas avanzados en PDE’s (Ecuaciones Elípticas)
-
-[---> Puedes revisar detalles de los cursos aquí <--- ](https://archive.fciencias.unam.mx/directorio/89930) 
-
-
 
 
 ---
