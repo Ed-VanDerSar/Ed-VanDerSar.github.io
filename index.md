@@ -16,7 +16,7 @@ Currently, I am pursuing a PhD degree in Applied Mathematics. My research is cen
 
 
 <div style="text-align:center;">
-<img src="/assets/pictures/edwin_cirm.jpeg" alt="Texto alternativo" width="272" height="661">
+<img src="/assets/pictures/edwin_clase.jpeg" alt="Texto alternativo" width="272" height="661">
 </div>
 
 
