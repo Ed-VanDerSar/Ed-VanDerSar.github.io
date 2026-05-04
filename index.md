@@ -13,12 +13,11 @@ I am __Edwin Anzures__. Currently, I am pursuing a PhD degree in Applied Mathema
 - PDEs arising form probability theory and stochastic process
 - Stochastic PDE's applied to biology and finance
 
+<p>
+    <img src="/assets/pictures/edwin_bosque.jpeg" hspace="10" >
+    <img src="/assets/pictures/edwin_piensa.jpeg" hspace="10" >
+</p>
 
-
-
-<div style="text-align:center;">
-<img src="/assets/pictures/edwin_clase.jpeg" alt="Texto alternativo" width="272" height="661">
-</div>
 
 
 
