@@ -36,5 +36,5 @@ mathjax: true
  ---
 
  
-[Here is a link to my complete CV (Updated until January 2025)](/edwin_CV.pdf)
+[Here is a link to my complete CV (Updated until March 2026)](/edwin_CV.pdf)
 
