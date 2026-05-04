@@ -14,8 +14,8 @@ I am __Edwin Anzures__. Currently, I am pursuing a PhD degree in Applied Mathema
 - Stochastic PDE's applied to biology and finance
 
 <p align="center">
-    <img src="/assets/pictures/edwin_bosque.jpeg" hspace="10" >
-    <img src="/assets/pictures/edwin_piensa.jpeg" hspace="10" >
+    <img width="272" src="/assets/pictures/edwin_bosque.jpeg" hspace="10" >
+    <img width="272" src="/assets/pictures/edwin_piensa.jpeg" hspace="10" >
 </p>
 
 
